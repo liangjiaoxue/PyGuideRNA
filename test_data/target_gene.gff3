@@ -1,0 +1,9 @@
+Chr01	phytozome8_0	gene	1	3278	.	-	.	ID=Potri.001G036900;Name=Potri.001G036900
+Chr01	phytozome8_0	mRNA	1	3278	.	-	.	ID=PAC:27046169;Name=Potri.001G036900.1;pacid=27046169;longest=1;Parent=Potri.001G036900
+Chr01	phytozome8_0	three_prime_UTR	1	330	.	-	.	ID=PAC:27046169.three_prime_UTR.1;Parent=PAC:27046169;pacid=27046169
+Chr01	phytozome8_0	CDS	331	441	.	-	0	ID=PAC:27046169.CDS.5;Parent=PAC:27046169;pacid=27046169
+Chr01	phytozome8_0	CDS	554	656	.	-	1	ID=PAC:27046169.CDS.4;Parent=PAC:27046169;pacid=27046169
+Chr01	phytozome8_0	CDS	756	969	.	-	2	ID=PAC:27046169.CDS.3;Parent=PAC:27046169;pacid=27046169
+Chr01	phytozome8_0	CDS	1093	1291	.	-	0	ID=PAC:27046169.CDS.2;Parent=PAC:27046169;pacid=27046169
+Chr01	phytozome8_0	CDS	2212	3207	.	-	0	ID=PAC:27046169.CDS.1;Parent=PAC:27046169;pacid=27046169
+Chr01	phytozome8_0	five_prime_UTR	3208	3278	.	-	.	ID=PAC:27046169.five_prime_UTR.1;Parent=PAC:27046169;pacid=27046169
